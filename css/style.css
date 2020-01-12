@@ -69,7 +69,7 @@ header {
 }
 
 .hero-bg {
-    background-image: url("/img/bg.png");
+    background-image: url("../img/bg.png");
     background-repeat: no-repeat;
     background-position: 14% 100%;
     background-size: cover;
