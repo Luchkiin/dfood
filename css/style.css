@@ -157,6 +157,10 @@ input[type=button]:hover {
     text-align: center;
 }
 
+.right-col p {
+    text-align: left; 
+}
+
 .left-col img {
     width: 100%;
     height: 100%;
