@@ -124,7 +124,7 @@ input[type=text]:focus {
 input[type=button] {
     border: none;
     border-radius: 0.156em;
-    padding: .55em !important;
+    padding: .75em !important;
     width: 100%;
     font-family: 'Montserrat', sans-serif;
     background-color: #A1A423;
