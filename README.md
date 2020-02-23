@@ -11,7 +11,7 @@
 
 ## About the Project
 
-<img src="https://github.com/Luchkiin/dfood/blob/master/img/readme-img-cover.png" alt="Logo" width="1280" height="450">
+<img src="https://github.com/Luchkiin/dfood/blob/master/img/readme-img-cover.png" alt="Logo" width="Auto" height="Auto">
 
 dfood is a landing page template for a fictional food delivering service. The landing page makes use of a sleek design with an incorporated background image which emphasize the context of the offered service to the end user. 
 
